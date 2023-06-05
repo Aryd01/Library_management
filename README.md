@@ -76,10 +76,10 @@ Add book
 
 ## Support
 
-For support, email 12agrawalrahul@gmail.com
+For support, email arscien04@gmail.com
 
 
 ## 🚀 About Me
 I'm a full stack developer...
 
-My name is Rahul Agrawal 
+My name is Arti Yadav
